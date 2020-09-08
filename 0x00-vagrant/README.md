@@ -1,0 +1,1 @@
+The uname option command shows the operation system. In this case is Lynux
