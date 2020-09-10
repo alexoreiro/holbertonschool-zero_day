@@ -1,1 +1,1 @@
-Git
+Holberton School 
