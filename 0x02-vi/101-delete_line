@@ -1,1 +1,1 @@
-2dd<return>
+:g/mathc/.,+1d
